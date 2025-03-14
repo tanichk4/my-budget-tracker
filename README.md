@@ -1,6 +1,6 @@
-# Budget Planner Project
+# Budget Tracker Project
 
-This is my starter project for a budget planner application. It is still under development and not yet complete.
+This is my starter project for a budget tracker application. It is still under development and not yet complete.
 
 ### Implemented Features:
 
@@ -12,4 +12,5 @@ This is my starter project for a budget planner application. It is still under d
 ### Future Development:
 
 More features will be added as the project progresses.
+
 # my-budget-tracker
